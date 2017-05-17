@@ -1,0 +1,12 @@
+c:\users\missa\documents\visual studio 2015\Projects\masterMind\masterMind\bin\Debug\masterMind.exe.config
+c:\users\missa\documents\visual studio 2015\Projects\masterMind\masterMind\obj\Debug\masterMind.csprojResolveAssemblyReference.cache
+c:\users\missa\documents\visual studio 2015\Projects\masterMind\masterMind\bin\Debug\masterMind.exe
+c:\users\missa\documents\visual studio 2015\Projects\masterMind\masterMind\bin\Debug\masterMind.pdb
+c:\users\missa\documents\visual studio 2015\Projects\masterMind\masterMind\obj\Debug\masterMind.exe
+c:\users\missa\documents\visual studio 2015\Projects\masterMind\masterMind\obj\Debug\masterMind.pdb
+C:\Users\m.charlier\Documents\Visual Studio 2015\Projects\masterMind\masterMind\bin\Debug\masterMind.exe.config
+C:\Users\m.charlier\Documents\Visual Studio 2015\Projects\masterMind\masterMind\obj\Debug\masterMind.exe
+C:\Users\m.charlier\Documents\Visual Studio 2015\Projects\masterMind\masterMind\obj\Debug\masterMind.pdb
+C:\Users\m.charlier\Documents\Visual Studio 2015\Projects\masterMind\masterMind\bin\Debug\masterMind.exe
+C:\Users\m.charlier\Documents\Visual Studio 2015\Projects\masterMind\masterMind\bin\Debug\masterMind.pdb
+C:\Users\m.charlier\Documents\Visual Studio 2015\Projects\masterMind\masterMind\obj\Debug\masterMind.csprojResolveAssemblyReference.cache
